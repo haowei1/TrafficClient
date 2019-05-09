@@ -67,6 +67,7 @@ public class OkHttpUtils {
             }
         });
     }
+
     public interface CallBack{
         void successful(String string);
         void exception(Exception e);
