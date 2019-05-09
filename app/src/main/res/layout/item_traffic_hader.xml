@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/id"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:padding="5dp"
+        android:textColor="#000"
+        android:background="#fff"
+        android:text="路口"/>
+    <TextView
+        android:id="@+id/red"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:padding="5dp"
+        android:textColor="#000"
+        android:background="#fff"
+        android:layout_marginLeft="1dp"
+        android:text="红灯时长(S)"/>
+    <TextView
+        android:id="@+id/yellow"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:padding="5dp"
+        android:textColor="#000"
+        android:background="#fff"
+        android:layout_marginLeft="1dp"
+        android:text="黄灯时长(S)"/>
+    <TextView
+        android:layout_marginLeft="1dp"
+        android:id="@+id/green"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:padding="5dp"
+        android:textColor="#000"
+        android:background="#fff"
+        android:text="绿灯时长(S)"/>
+
+</LinearLayout>

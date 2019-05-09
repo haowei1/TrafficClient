@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\TrafficClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\TrafficClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_72e6ef59aa20f692ef7457fe178584b35c8ba1e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TrafficClient\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b5b6e706cc0d13483f5e2b76712d714ce8b7629">
+        <dex dex="D:\TrafficClient\app\build\intermediates\pre-dexed\debug\volley_86be82b2c205335357911e33c86a367cc57d3c87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TrafficClient\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\TrafficClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_97a7884f476a5511e96f41f4442d7f87713c0361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TrafficClient\app\libs\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="D:\TrafficClient\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_fb6dd9f54f4e0a1723036f8b9066e943b48a051a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TrafficClient\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\TrafficClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_a7ec2d9fc061c606c1281a25170bf07e278d6ef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TrafficClient\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\TrafficClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_dfc186c3c0da80756c4e61be18a178076e4c915f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TrafficClient\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\TrafficClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_260386b53194f22e285c883965a299d9de6fcb01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\TrafficClient\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_40cdcd5f09720134741096782676cab7782e3d87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TrafficClient\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\TrafficClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_3e9a3bf086dec6c20a21cc63249802e840773583.jar" />
+    </item>
+
+</items>

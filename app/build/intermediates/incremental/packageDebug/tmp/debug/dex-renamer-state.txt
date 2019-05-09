@@ -1,0 +1,4 @@
+#Tue May 07 17:20:56 CST 2019
+base.0=G\:\\Android\\studioCode\\TrafficClient_hwy\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
