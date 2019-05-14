@@ -3,11 +3,8 @@ package com.mad.trafficclient.activity;
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.View;
-import android.widget.MediaController;
 import android.widget.VideoView;
 
 import com.mad.trafficclient.R;
